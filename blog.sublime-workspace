@@ -1,0 +1,280 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Post",
+				"PostModelAdmin"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"Cl",
+				"ClickEventManager"
+			],
+			[
+				"s",
+				"success"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"va",
+				"value_2_invalid"
+			],
+			[
+				"val",
+				"value_1_invalid"
+			],
+			[
+				"u",
+				"url_validator"
+			],
+			[
+				"validate",
+				"validate_dot_com"
+			],
+			[
+				"URL",
+				"URLValidator"
+			],
+			[
+				"f",
+				"forms"
+			],
+			[
+				"clean",
+				"cleaned_data"
+			],
+			[
+				"c",
+				"cleaned_data"
+			],
+			[
+				"Su",
+				"SubmitUrlForm"
+			],
+			[
+				"short",
+				"shortener"
+			],
+			[
+				"Home",
+				"HomeView"
+			],
+			[
+				"n",
+				"new_url"
+			],
+			[
+				"Ki",
+				"KirrURL"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"Kir",
+				"KirrURLManager"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/devanshu/Desktop/Blog/Blog_src/posts/models.py",
+		"/home/devanshu/Desktop/Blog/Blog_src/posts/admin.py",
+		"/home/devanshu/Desktop/Blog/Blog_src/Blog/settings.py",
+		"/home/devanshu/Desktop/Url/src/shortener/templates/shortener/success.html",
+		"/home/devanshu/Desktop/Url/src/shortener/validators.py",
+		"/home/devanshu/Desktop/Url/src/shortener/forms.py",
+		"/home/devanshu/Desktop/Url/src/shortener/templates/shortener/already-exists.html",
+		"/home/devanshu/Desktop/Url/src/templates/base.html",
+		"/home/devanshu/Desktop/Url/src/shortener/models.py",
+		"/home/devanshu/Desktop/Url/src/kirr/settings.py",
+		"/home/devanshu/Desktop/Url/src/shortener/views.py",
+		"/home/devanshu/Desktop/Url/src/shortener/templates/shortener/home.html",
+		"/home/devanshu/Desktop/Url/src/shortener/utils.py",
+		"/home/devanshu/Desktop/Url/src/templates/shortener-ext/base.html",
+		"/home/devanshu/Desktop/Url/src/kirr/urls.py",
+		"/home/devanshu/Desktop/Url/src/analytics/models.py",
+		"/home/devanshu/Desktop/Url/src/analytics/admin.py",
+		"/home/devanshu/Desktop/Url/src/shortener/templates/shortener/validators.py",
+		"/home/devanshu/Desktop/Url/src/template",
+		"/home/devanshu/Desktop/Url/src/templates/shortener-ext/home.html",
+		"/home/devanshu/Desktop/Url/src/shortener/util.py",
+		"/home/devanshu/Desktop/Url/src/shortener/tests.py",
+		"/home/devanshu/Desktop/Url/src/shortener/templates/shortener/forms.py",
+		"/home/devanshu/Desktop/Url/lib/python3.5/site-packages/django/http/response.py",
+		"/home/devanshu/Desktop/Url/src/shortener/templates/home.html",
+		"/home/devanshu/Desktop/Url/src/kirr/hosts.py",
+		"/home/devanshu/Desktop/Url/src/kirr/hostsconf/views.py",
+		"/home/devanshu/Desktop/Url/src/kirr/hostsconf/urls.py",
+		"/home/devanshu/Desktop/Url/src/kirr/hostsconf/__init__.py",
+		"/home/devanshu/Desktop/Url/src/shortener/management/commands/refreshcodes.py",
+		"/home/devanshu/Desktop/Url/src/shortener/admin.py",
+		"/home/devanshu/Desktop/Url/src/shortener/management/__init__.py",
+		"/home/devanshu/Desktop/Url/src/shortener/management/refreshcodes.py",
+		"/home/devanshu/Desktop/Url/src/shortener/migrations/__init__.py",
+		"/home/devanshu/Desktop/Url/Url_Shortening_service",
+		"/home/devanshu/Desktop/Url/README.md"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 107.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
