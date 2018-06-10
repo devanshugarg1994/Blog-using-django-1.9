@@ -7,13 +7,16 @@
 
 {% block content %}
 
+
 <div class='col-sm-6 col-sm-offset-3'>
+	{% if instance.image %}
+	<img src ='{{ instance.image.url }}' class='img-reponsive'/>
+
+	{% endif %}
 
 <h1>{{ title }} <small>{{ instance.timestamp }}</small></h1>
 
 {{ instance.content | linebreaks }} <br/>
-</br>
-{{ instance.updated }} <br/>
 </div>
 
 {% endblock content %}
