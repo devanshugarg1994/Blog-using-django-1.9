@@ -11,11 +11,15 @@
 
 <div class='col-sm-6 col-sm-offset-3'>
 	{% if instance.image %}
-	<img src ='{{ instance.image.url }}' class='img-reponsive'/>
-
+	<img src ='{{ instance.image.url }}'  class='img-responsive'/>
 	{% endif %}
 
 <h1>{{ title }} <small>{{ instance.timestamp }}</small></h1>
+
+{% if instance.user.get_full_name %}
+<p> Author: {{ instance.user.get_full_name }}</p>
+<div class="fb-like" data-href="{{ request.build_absolute_uri }}" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+{% endif %}
 
 
  <br/>
@@ -37,8 +41,9 @@ Linkedin
 
 <a href="http://www.reddit.com/submit?url={{ request.build_absolute_uri }}&title={{ instance.content | truncatechars:80 | urlify }}">Reddit</a><!-- we can use share_string -->
 
+{{ instance.content | linebreaks }}<br/>
 
-
+<div class="fb-comments" data-href="{{ request.build_absolute_uri }}" data-numposts="5"></div>
 </div>
 
 {% endblock content %}
